@@ -1,0 +1,38 @@
+### test login get
+GET http://localhost:9000/login
+Accept: application/json
+
+### login POST
+POST http://localhost:9000/login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "username" :"billy",
+    "password" :"billy"
+}
+
+### Register GET
+GET http://localhost:9000/register
+Accept: application/json
+
+### Register POST
+POST http://localhost:9000/register
+Accept: application/json
+Content-Type: application/json
+
+{
+    "firstname" :"Bima",
+    "lastname":"Ginting",
+    "username" :"bima",
+    "password" :"bima"
+}
+
+### Logout
+GET http://localhost:9000/logout
+Accept: application/json
+
+
+### Home
+GET http://localhost:9000/Home
+Accept: application/json

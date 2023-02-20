@@ -1,0 +1,10 @@
+time="2023-02-20T16:26:24+07:00" level=info msg="Login berhasil" username=billy
+time="2023-02-20T16:26:24+07:00" level=info msg="sealamt datang di menu Home" username=billy
+time="2023-02-20T16:26:52+07:00" level=info msg="Berhasil Logout" username=billy
+time="2023-02-20T16:48:55+07:00" level=info msg="Login berhasil" username=billy
+time="2023-02-20T16:48:55+07:00" level=info msg="selamat datang di menu Home" username=billy
+time="2023-02-20T16:49:11+07:00" level=info msg="Berhasil Logout" username=billy
+time="2023-02-20T16:49:40+07:00" level=info msg="Berhasil Registrasi" newUser=bima
+time="2023-02-20T16:50:15+07:00" level=info msg="Login berhasil" username=bima
+time="2023-02-20T16:50:15+07:00" level=info msg="selamat datang di menu Home" username=bima
+time="2023-02-20T16:50:27+07:00" level=info msg="Berhasil Logout" username=bima
